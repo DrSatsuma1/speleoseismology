@@ -1,0 +1,1031 @@
+[
+  {
+    "name": "T. Porra Fault",
+    "kinematics": "ND",
+    "distance": 10.256355769096919,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94207",
+    "code": 94207
+  },
+  {
+    "name": "Imperia Marine 15",
+    "kinematics": "Normal",
+    "distance": 17.569192527799775,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94161",
+    "code": 94161
+  },
+  {
+    "name": "Imperia Marine 16",
+    "kinematics": "Normal",
+    "distance": 19.074946363471277,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94136",
+    "code": 94136
+  },
+  {
+    "name": "Imperia Marine 14",
+    "kinematics": "Normal",
+    "distance": 22.222649290323428,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94163",
+    "code": 94163
+  },
+  {
+    "name": "Imperia Marine 13",
+    "kinematics": "Normal",
+    "distance": 23.014651511182244,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94162",
+    "code": 94162
+  },
+  {
+    "name": "Imperia Marine 12",
+    "kinematics": "Normal",
+    "distance": 23.120425467649344,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94159",
+    "code": 94159
+  },
+  {
+    "name": "Imperia Marine 11",
+    "kinematics": "Normal",
+    "distance": 24.47892140881103,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94158",
+    "code": 94158
+  },
+  {
+    "name": "Imperia Marine 10",
+    "kinematics": "Normal",
+    "distance": 24.54016958624455,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94094",
+    "code": 94094
+  },
+  {
+    "name": "Imperia Marine 9",
+    "kinematics": "Normal",
+    "distance": 26.46744588062565,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94165",
+    "code": 94165
+  },
+  {
+    "name": "Imperia Marine 7",
+    "kinematics": "Normal",
+    "distance": 27.556593175455617,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94166",
+    "code": 94166
+  },
+  {
+    "name": "Imperia Marine 6",
+    "kinematics": "Normal",
+    "distance": 28.610650925574085,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94167",
+    "code": 94167
+  },
+  {
+    "name": "Imperia Marine 5",
+    "kinematics": "Normal",
+    "distance": 29.705854562575123,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94157",
+    "code": 94157
+  },
+  {
+    "name": "Imperia Marine 8",
+    "kinematics": "Normal",
+    "distance": 30.111912230005796,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94164",
+    "code": 94164
+  },
+  {
+    "name": "Imperia Marine 17",
+    "kinematics": "Reverse",
+    "distance": 34.0522600076759,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94160",
+    "code": 94160
+  },
+  {
+    "name": "Imperia Marine 4",
+    "kinematics": "Normal",
+    "distance": 34.126405217364315,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94155",
+    "code": 94155
+  },
+  {
+    "name": "Imperia Marine 3",
+    "kinematics": "Normal",
+    "distance": 35.06703282069026,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94139",
+    "code": 94139
+  },
+  {
+    "name": "Imperia Marine 1",
+    "kinematics": "Normal",
+    "distance": 35.87902541877059,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94156",
+    "code": 94156
+  },
+  {
+    "name": "San Remo Marine 41",
+    "kinematics": "Normal",
+    "distance": 36.76187947595339,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94075",
+    "code": 94075
+  },
+  {
+    "name": "Imperia Marine 18",
+    "kinematics": "Reverse",
+    "distance": 36.99654085520929,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94137",
+    "code": 94137
+  },
+  {
+    "name": "Imperia Promontory 5 Fault",
+    "kinematics": "Reverse",
+    "distance": 37.14638549260872,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94085",
+    "code": 94085
+  },
+  {
+    "name": "Imperia Marine 2",
+    "kinematics": "Normal",
+    "distance": 37.157063546143355,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94138",
+    "code": 94138
+  },
+  {
+    "name": "San Remo Marine 40",
+    "kinematics": "Normal",
+    "distance": 37.64749611032509,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94074",
+    "code": 94074
+  },
+  {
+    "name": "San Remo Marine 43",
+    "kinematics": "Normal",
+    "distance": 37.73690961806807,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94077",
+    "code": 94077
+  },
+  {
+    "name": "Imperia Promontory 8 Fault",
+    "kinematics": "Reverse",
+    "distance": 37.77885827239897,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94226",
+    "code": 94226
+  },
+  {
+    "name": "Genova Marine 1 Fault",
+    "kinematics": "Normal",
+    "distance": 38.22643617543012,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94221",
+    "code": 94221
+  },
+  {
+    "name": "Imperia Promontory 7 Fault",
+    "kinematics": "Reverse",
+    "distance": 38.38163899855971,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94228",
+    "code": 94228
+  },
+  {
+    "name": "San Remo Marine 39",
+    "kinematics": "Normal",
+    "distance": 38.6693368844991,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94132",
+    "code": 94132
+  },
+  {
+    "name": "Imperia Promontory 2 Fault",
+    "kinematics": "Reverse",
+    "distance": 39.10010458460071,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94090",
+    "code": 94090
+  },
+  {
+    "name": "Imperia Promontory 4 Fault",
+    "kinematics": "Reverse",
+    "distance": 39.119824945051995,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94083",
+    "code": 94083
+  },
+  {
+    "name": "Imperia Promontory 6 Fault",
+    "kinematics": "Reverse",
+    "distance": 39.15888219043981,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94227",
+    "code": 94227
+  },
+  {
+    "name": "Rio Teiro 1 Fault",
+    "kinematics": "Normal",
+    "distance": 39.2369665331091,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94242",
+    "code": 94242
+  },
+  {
+    "name": "San Remo Marine 44",
+    "kinematics": "Normal",
+    "distance": 39.32266400694236,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94078",
+    "code": 94078
+  },
+  {
+    "name": "Rio Teiro 2 Fault",
+    "kinematics": "Normal",
+    "distance": 39.45319281357447,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94243",
+    "code": 94243
+  },
+  {
+    "name": "Rio Mola Fault",
+    "kinematics": "Normal",
+    "distance": 39.65457996537983,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94244",
+    "code": 94244
+  },
+  {
+    "name": "San Remo Marine 42",
+    "kinematics": "Normal",
+    "distance": 39.98749491501329,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94076",
+    "code": 94076
+  },
+  {
+    "name": "Terzorio Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.188494684506935,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94119",
+    "code": 94119
+  },
+  {
+    "name": "Aregai Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.28148780850918,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94116",
+    "code": 94116
+  },
+  {
+    "name": "San Remo Marine 35",
+    "kinematics": "Normal",
+    "distance": 40.29088379335999,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94070",
+    "code": 94070
+  },
+  {
+    "name": "Rio Vignetta Fault",
+    "kinematics": "Normal",
+    "distance": 40.409907354120506,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94245",
+    "code": 94245
+  },
+  {
+    "name": "Pompeiana Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.510596958895036,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94117",
+    "code": 94117
+  },
+  {
+    "name": "San Remo Marine 33",
+    "kinematics": "Normal",
+    "distance": 40.52769676266956,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94134",
+    "code": 94134
+  },
+  {
+    "name": "San Remo Marine 37",
+    "kinematics": "Normal",
+    "distance": 40.573079223025566,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94260",
+    "code": 94260
+  },
+  {
+    "name": "Terre Bianche Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.58847065993293,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94118",
+    "code": 94118
+  },
+  {
+    "name": "Monte Santo Stefano Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.79161606943339,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94120",
+    "code": 94120
+  },
+  {
+    "name": "Terrazzi Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.916657374655315,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94122",
+    "code": 94122
+  },
+  {
+    "name": "Valle dell'Isola Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 40.99750855541989,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94121",
+    "code": 94121
+  },
+  {
+    "name": "Gramegna-Monte San Giuseppe Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 41.067818147105804,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94123",
+    "code": 94123
+  },
+  {
+    "name": "Poggio Fault",
+    "kinematics": "Normal",
+    "distance": 41.12795564426205,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94272",
+    "code": 94272
+  },
+  {
+    "name": "San Michele Fault",
+    "kinematics": "Normal",
+    "distance": 41.13471891187934,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94273",
+    "code": 94273
+  },
+  {
+    "name": "Canneo Fault",
+    "kinematics": "Normal",
+    "distance": 41.200054842823,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94274",
+    "code": 94274
+  },
+  {
+    "name": "San Remo Marine 32",
+    "kinematics": "Normal",
+    "distance": 41.27984807450481,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94133",
+    "code": 94133
+  },
+  {
+    "name": "Rosaina Fault",
+    "kinematics": "Normal",
+    "distance": 41.307094828538105,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94271",
+    "code": 94271
+  },
+  {
+    "name": "Gatin Fault",
+    "kinematics": "Normal",
+    "distance": 41.590679498086814,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94270",
+    "code": 94270
+  },
+  {
+    "name": "Rio Donne Fault",
+    "kinematics": "Normal",
+    "distance": 41.84597205499227,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94250",
+    "code": 94250
+  },
+  {
+    "name": "Monte Rocche Fault",
+    "kinematics": "Normal",
+    "distance": 41.997083772637566,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94145",
+    "code": 94145
+  },
+  {
+    "name": "San Remo Marine 22",
+    "kinematics": "Normal",
+    "distance": 42.02300419694252,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94059",
+    "code": 94059
+  },
+  {
+    "name": "San Remo Marine 30",
+    "kinematics": "Normal",
+    "distance": 42.160328649525276,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94069",
+    "code": 94069
+  },
+  {
+    "name": "Rio Pescatori Fault",
+    "kinematics": "Normal",
+    "distance": 42.23918230302503,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94246",
+    "code": 94246
+  },
+  {
+    "name": "Rio Ubago Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 42.24452040847699,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94115",
+    "code": 94115
+  },
+  {
+    "name": "San Remo Marine 29",
+    "kinematics": "Normal",
+    "distance": 42.26946583266378,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94259",
+    "code": 94259
+  },
+  {
+    "name": "San Remo Marine 34",
+    "kinematics": "Normal",
+    "distance": 42.33597024428122,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94072",
+    "code": 94072
+  },
+  {
+    "name": "San Remo Marine 26",
+    "kinematics": "Normal",
+    "distance": 42.396020889490075,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94067",
+    "code": 94067
+  },
+  {
+    "name": "Rio Partigliolo 2 Fault",
+    "kinematics": "Normal",
+    "distance": 42.69504927196078,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94248",
+    "code": 94248
+  },
+  {
+    "name": "Rio Partigliolo 1 Fault",
+    "kinematics": "Normal",
+    "distance": 42.739164196910615,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94247",
+    "code": 94247
+  },
+  {
+    "name": "San Remo Marine 23",
+    "kinematics": "Normal",
+    "distance": 42.9420246373954,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94066",
+    "code": 94066
+  },
+  {
+    "name": "Genova Marine 2 Fault",
+    "kinematics": "Normal",
+    "distance": 43.023659042374895,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94223",
+    "code": 94223
+  },
+  {
+    "name": "San Remo Marine 36",
+    "kinematics": "Normal",
+    "distance": 43.21610314898868,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94073",
+    "code": 94073
+  },
+  {
+    "name": "San Remo Marine 38",
+    "kinematics": "Normal",
+    "distance": 43.55057297905216,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94135",
+    "code": 94135
+  },
+  {
+    "name": "Rio Arrestra Fault",
+    "kinematics": "Normal",
+    "distance": 43.57112611846505,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94249",
+    "code": 94249
+  },
+  {
+    "name": "San Remo Marine 24",
+    "kinematics": "Normal",
+    "distance": 43.629080830146435,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94080",
+    "code": 94080
+  },
+  {
+    "name": "San Remo Marine 27",
+    "kinematics": "Normal",
+    "distance": 43.771872997592965,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94068",
+    "code": 94068
+  },
+  {
+    "name": "San Remo Marine 31",
+    "kinematics": "Normal",
+    "distance": 44.040520369864396,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94079",
+    "code": 94079
+  },
+  {
+    "name": "San Remo Marine 28",
+    "kinematics": "Normal",
+    "distance": 44.11655857794268,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94071",
+    "code": 94071
+  },
+  {
+    "name": "San Remo Marine 21",
+    "kinematics": "Normal",
+    "distance": 44.54894935489864,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94060",
+    "code": 94060
+  },
+  {
+    "name": "Bussana Vecchia Fault",
+    "kinematics": "Normal",
+    "distance": 44.61294894306563,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94127",
+    "code": 94127
+  },
+  {
+    "name": "San Remo Marine 25",
+    "kinematics": "Normal",
+    "distance": 44.72721124433791,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94081",
+    "code": 94081
+  },
+  {
+    "name": "Imperia Promontory 3 Fault",
+    "kinematics": "Reverse",
+    "distance": 44.80243461061466,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94089",
+    "code": 94089
+  },
+  {
+    "name": "Saorge-Taggia Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 44.94491796061631,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94050",
+    "code": 94050
+  },
+  {
+    "name": "San Pietro Fault",
+    "kinematics": "Normal",
+    "distance": 45.007010290413106,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94128",
+    "code": 94128
+  },
+  {
+    "name": "Bussana Fault",
+    "kinematics": "Normal",
+    "distance": 45.03261666240521,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94126",
+    "code": 94126
+  },
+  {
+    "name": "Fontana Bianca Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 45.841631474349235,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94114",
+    "code": 94114
+  },
+  {
+    "name": "Rebussaira Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 45.899605208009234,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94112",
+    "code": 94112
+  },
+  {
+    "name": "San Remo Marine 20",
+    "kinematics": "Normal",
+    "distance": 46.075593620384026,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94061",
+    "code": 94061
+  },
+  {
+    "name": "Rio di Fonatana Vecchia Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 46.252488522887326,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94113",
+    "code": 94113
+  },
+  {
+    "name": "Ponte di Bonda Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 46.49485077910089,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94111",
+    "code": 94111
+  },
+  {
+    "name": "San Remo Marine 18",
+    "kinematics": "Normal",
+    "distance": 46.52459680274849,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94065",
+    "code": 94065
+  },
+  {
+    "name": "San Remo Marine 19",
+    "kinematics": "Normal",
+    "distance": 46.93418888669107,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94082",
+    "code": 94082
+  },
+  {
+    "name": "San Remo Marine 17",
+    "kinematics": "Normal",
+    "distance": 46.97859718930752,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94063",
+    "code": 94063
+  },
+  {
+    "name": "San Remo Marine 16",
+    "kinematics": "Normal",
+    "distance": 47.24705558751559,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94062",
+    "code": 94062
+  },
+  {
+    "name": "Marcel 4 Fault",
+    "kinematics": "Reverse",
+    "distance": 47.33290975007062,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94088",
+    "code": 94088
+  },
+  {
+    "name": "San Remo Marine 14",
+    "kinematics": "Normal",
+    "distance": 47.86827831865276,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94064",
+    "code": 94064
+  },
+  {
+    "name": "Colletta Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 47.922131190131694,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94110",
+    "code": 94110
+  },
+  {
+    "name": "San Remo Marine 15",
+    "kinematics": "Normal",
+    "distance": 47.931374408190784,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94168",
+    "code": 94168
+  },
+  {
+    "name": "Imperia Promontory 1 Fault",
+    "kinematics": "Reverse",
+    "distance": 48.02179639145909,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94093",
+    "code": 94093
+  },
+  {
+    "name": "Castel Vittorio Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 48.05770416579463,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94109",
+    "code": 94109
+  },
+  {
+    "name": "Genova Marine 3 Fault",
+    "kinematics": "Normal",
+    "distance": 48.10796083278984,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94222",
+    "code": 94222
+  },
+  {
+    "name": "Rio Fontanelle Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 48.30918303765984,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94108",
+    "code": 94108
+  },
+  {
+    "name": "San Remo Marine 12",
+    "kinematics": "Normal",
+    "distance": 48.55991646281461,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94055",
+    "code": 94055
+  },
+  {
+    "name": "Pigna Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 48.56445368358362,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94106",
+    "code": 94106
+  },
+  {
+    "name": "San Remo Marine 13",
+    "kinematics": "Normal",
+    "distance": 49.04967533814455,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94056",
+    "code": 94056
+  },
+  {
+    "name": "Casciun Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 49.408246906005324,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94098",
+    "code": 94098
+  },
+  {
+    "name": "Muratone-Pigna Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 49.60075401677858,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94107",
+    "code": 94107
+  },
+  {
+    "name": "Genoa Canyon 2 Fault",
+    "kinematics": "Reverse",
+    "distance": 49.81132573236167,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94086",
+    "code": 94086
+  },
+  {
+    "name": "Lisce-Parisi Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 49.94766483342255,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94099",
+    "code": 94099
+  },
+  {
+    "name": "Passo Muratone-Rio di Carne Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 50.08735723542745,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94102",
+    "code": 94102
+  },
+  {
+    "name": "Colla-Casciun-Sant'Antonio Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 50.15429689301673,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94097",
+    "code": 94097
+  },
+  {
+    "name": "Genova Marine 4 Fault",
+    "kinematics": "Normal",
+    "distance": 50.2866469931251,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94225",
+    "code": 94225
+  },
+  {
+    "name": "San Remo Marine 11",
+    "kinematics": "Normal",
+    "distance": 50.315071199429035,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94169",
+    "code": 94169
+  },
+  {
+    "name": "Bormo Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 50.478670733420806,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94101",
+    "code": 94101
+  },
+  {
+    "name": "Colla-Bestagno Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 50.81489434481842,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94100",
+    "code": 94100
+  },
+  {
+    "name": "Genseo Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 50.995004683681984,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94105",
+    "code": 94105
+  },
+  {
+    "name": "Bestagno Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 51.127261119480615,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94104",
+    "code": 94104
+  },
+  {
+    "name": "Colla Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 51.45092728972138,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94103",
+    "code": 94103
+  },
+  {
+    "name": "Genoa Canyon 1 Fault",
+    "kinematics": "Reverse",
+    "distance": 51.56283582534195,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94084",
+    "code": 94084
+  },
+  {
+    "name": "Marcel 3 Fault",
+    "kinematics": "Reverse",
+    "distance": 51.78167181276337,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94124",
+    "code": 94124
+  },
+  {
+    "name": "San Remo Marine 10",
+    "kinematics": "Normal",
+    "distance": 52.30163289313464,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94278",
+    "code": 94278
+  },
+  {
+    "name": "Capo Nero Fault",
+    "kinematics": "Strike Slip DX",
+    "distance": 52.63134863738544,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94125",
+    "code": 94125
+  },
+  {
+    "name": "Taggia Canyon Fault",
+    "kinematics": "Strike Slip DX",
+    "distance": 52.72225947868012,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94045",
+    "code": 94045
+  },
+  {
+    "name": "San Remo Marine 5",
+    "kinematics": "Normal",
+    "distance": 52.938355022736864,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94054",
+    "code": 94054
+  },
+  {
+    "name": "San Remo Marine 9",
+    "kinematics": "Normal",
+    "distance": 53.515538364881046,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94052",
+    "code": 94052
+  },
+  {
+    "name": "San Remo Marine 8",
+    "kinematics": "Normal",
+    "distance": 54.04906181719324,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94053",
+    "code": 94053
+  },
+  {
+    "name": "San Remo Marine 45",
+    "kinematics": "Normal",
+    "distance": 54.75074550834065,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94277",
+    "code": 94277
+  },
+  {
+    "name": "San Remo Marine 7",
+    "kinematics": "Normal",
+    "distance": 55.025277457883334,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94130",
+    "code": 94130
+  },
+  {
+    "name": "San Remo Marine 4",
+    "kinematics": "Normal",
+    "distance": 55.310113441763974,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94131",
+    "code": 94131
+  },
+  {
+    "name": "San Remo Marine 6",
+    "kinematics": "Normal",
+    "distance": 55.97512139153334,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94129",
+    "code": 94129
+  },
+  {
+    "name": "San Remo Fault",
+    "kinematics": "Oblique Normal DX",
+    "distance": 56.267761460779525,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94051",
+    "code": 94051
+  },
+  {
+    "name": "Genova Marine 5 Fault",
+    "kinematics": "Normal",
+    "distance": 56.61059515055391,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94224",
+    "code": 94224
+  },
+  {
+    "name": "San Remo Marine 3",
+    "kinematics": "Normal",
+    "distance": 57.012134319545765,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94057",
+    "code": 94057
+  },
+  {
+    "name": "Trinit\u00c3\u00a0 Fault",
+    "kinematics": "Normal",
+    "distance": 57.90584320767379,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94096",
+    "code": 94096
+  },
+  {
+    "name": "San Remo Marine 2",
+    "kinematics": "Normal",
+    "distance": 58.51174199419866,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94058",
+    "code": 94058
+  },
+  {
+    "name": "San Remo Marine 1",
+    "kinematics": "Normal",
+    "distance": 59.63238012571754,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94087",
+    "code": 94087
+  },
+  {
+    "name": "Ventimiglia Marine 4 Fault",
+    "kinematics": "Normal",
+    "distance": 60.41031018798569,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94143",
+    "code": 94143
+  },
+  {
+    "name": "Marcel 2 Fault",
+    "kinematics": "Reverse",
+    "distance": 61.04127778305429,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94095",
+    "code": 94095
+  },
+  {
+    "name": "Ventimiglia Marine 5 Fault",
+    "kinematics": "Normal",
+    "distance": 61.656056600687826,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94144",
+    "code": 94144
+  },
+  {
+    "name": "Ventimiglia Marine 1 Fault",
+    "kinematics": "Normal",
+    "distance": 63.6602408790071,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94140",
+    "code": 94140
+  },
+  {
+    "name": "Ventimiglia Marine 6 Fault",
+    "kinematics": "Normal",
+    "distance": 64.72447259006309,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94261",
+    "code": 94261
+  },
+  {
+    "name": "Roya Canyon 1 Fault",
+    "kinematics": "Strike Slip DX",
+    "distance": 65.68070148572865,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94048",
+    "code": 94048
+  },
+  {
+    "name": "Ventimiglia Marine 3 Fault",
+    "kinematics": "Normal",
+    "distance": 66.13278744316199,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94142",
+    "code": 94142
+  },
+  {
+    "name": "Ventimiglia Marine 2 Fault",
+    "kinematics": "Normal",
+    "distance": 66.24205992323081,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94141",
+    "code": 94141
+  },
+  {
+    "name": "Roya Canyon 2 Fault",
+    "kinematics": "Strike Slip DX",
+    "distance": 69.0019697054605,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94049",
+    "code": 94049
+  },
+  {
+    "name": "Chiavari Marine 1 Fault",
+    "kinematics": "Normal",
+    "distance": 69.77566405040028,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94213",
+    "code": 94213
+  },
+  {
+    "name": "Chiavari Marine 2 Fault",
+    "kinematics": "Normal",
+    "distance": 71.93214277837774,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94212",
+    "code": 94212
+  },
+  {
+    "name": "Var Valley Fault",
+    "kinematics": "Reverse",
+    "distance": 74.21593944638066,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94091",
+    "code": 94091
+  },
+  {
+    "name": "Antola Fault",
+    "kinematics": "ND",
+    "distance": 74.52227437463795,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94264",
+    "code": 94264
+  },
+  {
+    "name": "Portofino Fault",
+    "kinematics": "ND",
+    "distance": 75.20026026362652,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94211",
+    "code": 94211
+  },
+  {
+    "name": "Chiavari Marine 6 Fault",
+    "kinematics": "ND",
+    "distance": 75.63421541076309,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94220",
+    "code": 94220
+  },
+  {
+    "name": "Marcel 1b Fault",
+    "kinematics": "Reverse",
+    "distance": 77.04915123828886,
+    "url": "http://sgi2.isprambiente.it/ithacaweb/SchedaFaglia.aspx?faultcode=94265",
+    "code": 94265
+  }
+]

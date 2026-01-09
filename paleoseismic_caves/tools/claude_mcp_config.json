@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "paleoseismic": {
+      "command": "/Users/catherine/projects/quake/paleoseismic_caves/tools/.venv/bin/python",
+      "args": ["/Users/catherine/projects/quake/paleoseismic_caves/tools/mcp_server.py"],
+      "env": {}
+    }
+  }
+}

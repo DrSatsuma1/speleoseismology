@@ -1,0 +1,97 @@
+entity_id,entity_name,site_name,min_year,max_year,n_d18o,tested,result
+721,Qad_2,Qadisha cave,-7197.23269571998,9040.190697657079,161,False,Not tested
+793,KT-3,Katalekhor,-7399.62795819297,6257.08476185659,287,False,Not tested
+886,Bu4_2021,Bunker cave,-6279.859547361681,2439.78541205355,1423,False,Not tested
+885,Bu1_2021,Bunker cave,436.92596959573007,2170.633551971376,1302,False,Not tested
+831,NG-3,Nova Grgosova cave,-8047.9948992463505,2071.441450276687,481,False,Not tested
+887,Ko-1,Kocain cave,-1361.49453039031,2049.4737276346036,369,False,Not tested
+752,PIM4,Cuíca cave,338.64792492309994,2047.550663517507,704,False,Not tested
+810,LAVI-15-7,La Vierge cave,-18.174988122110108,2045.5400089488023,661,False,Not tested
+843,Multieix,Sa balma des quartó cave,-396.8989683803902,2034.1007791228467,303,False,Not tested
+787,IFK2,Ifoulki cave,412.24443386713006,2029.9355469711859,76,False,Not tested
+172,FR-0510,Furong cave,-68.94976399999996,2017.33828748,299,False,Not tested
+443,CG,Dos Anas cave,768.539106,2015.93135445,671,False,Not tested
+547,STM1,Hoq cave,-3681.198988,2013.99681029,608,False,Not tested
+598,P00-H1,Huagapo cave,559.2374520000001,2013.99563525,290,False,Not tested
+188,AB2,Anjohibe,364.1962960000001,2013.77081345,1069,False,Not tested
+432,Sha-2,Shatuca cave,-8677.28085,2012.0,1564,False,Not tested
+447,JAR4,Jaraguá cave,1075.573384,2011.88978134,238,False,Not tested
+451,MAW-0201,Mawmluh cave,1964.31323998,2011.38707129,399,False,Not tested
+852,QM09,Shizi cave,-3668.1102783758297,2011.0906429702843,312,False,Not tested
+430,SBE3,São Bernardo cave,1103.6120618999998,2010.16417197,1714,False,Not tested
+573,Gej-1,Gejkar cave,-525.1296400000001,2010.12430162,841,False,Not tested
+146,TR5,Torrinha cave,1874.66884967,2010.0,91,False,Not tested
+203,LD12,Lapa Doce cave,1911.49639352,2010.0,124,False,Not tested
+743,WB,Cathedral cave,1936.697913691252,2009.942060037063,355,False,Not tested
+286,JX-6,Juxtlahuaca cave,-460.8709680000002,2009.58381394,1227,False,Not tested
+348,Mun-stm2,Munagamanu cave,-1847.383882,2009.01760633,333,False,Not tested
+746,CRY-S1,"Crystal cave, Australia",1919.6183501429773,2008.820157646163,246,False,Not tested
+613,PP1,Pink Panther cave,-10483.00629,2007.93074293,682,False,Not tested
+148,WS-B,Wah Shikhar cave,1348.0899818,2007.5499149,625,False,Not tested
+242,Bu4,Bunker cave,-6470.018760000001,2007.0,1008,False,Not tested
+440,GU-Xi-1,Xibalba cave,1661.6800341,2007.0,595,False,Not tested
+900,SAH-A_2023,Sahiya cave,1035.670104774475,2006.1392429270065,1228,False,Not tested
+577,CRC-3,Crystal cave,872.33365,2006.09557421,1054,True,9/9 (100%)
+209,YOKI,Yok Balum cave,-24.899014999999963,2006.0,4047,True,0/6 (0%)
+420,A1,"Lianhua cave, Hunan",-4643.910199,2006.0,819,False,Not tested
+512,St8-a,Santana cave,-24056.26592,2005.0,178,False,Not tested
+896,SBE3_2021,São Bernardo cave,1097.734809101601,2004.9356473102357,1714,False,Not tested
+326,GT05-5,Guillotine cave,-7314.445089999999,2004.83832569,187,False,Not tested
+560,STAL-B7-7,B7 cave,-15699.05772,2004.64439589,227,False,Not tested
+879,YD-S2,Yonderup cave,1760.093538780585,2004.350380739471,183,False,Not tested
+226,LR06-B1_2016,Liang Luar,27.30541100000005,2004.19706192,632,False,Not tested
+147,Chaac,Tzabnah cave,434.1613540000001,2004.0,709,False,Not tested
+349,Mun-stm1,Munagamanu cave,1255.4880386999998,2003.97434389,90,False,Not tested
+539,SQ7,Shenqi cave,695.793169,2003.15699505,282,False,Not tested
+422,MC08-1,Minnetonka cave,-9176.48949,2002.96439709,694,False,Not tested
+187,AB3,Anjohibe,249.06374400000004,2001.36379917,173,False,Not tested
+541,SG2,Shigao cave,-4029.997496,2000.41530806,203,False,Not tested
+291,KC-3,Kinderlinskaya cave,-9758.17373,2000.0,252,False,Not tested
+312,BT-2,Botuverá cave,-114346.0815,2000.0,689,False,Not tested
+319,SSC01,Gunung-buda cave (snail shell cave),-24427.44168,2000.0,433,False,Not tested
+320,SCH02,Gunung-buda cave (snail shell cave),-25933.14904,2000.0,295,False,Not tested
+775,TV1_2021,Herbstlabyrinth cave,-554.86263209156,1999.0776922219097,431,False,Not tested
+588,Cha2_2019,Chaara cave,-8106.61311,1998.99003458,657,False,Not tested
+684,PA-2b,Palco cave,-4211.170326,1998.97216466,340,False,Not tested
+201,PFU6,Klapferloch cave,-1024.6551829999999,1998.89803025,2814,False,Not tested
+21,PAR03,Paraiso cave,1158.6538061,1998.10314881,145,False,Not tested
+589,Cha1,Chaara cave,-11012.05674,1997.01906638,1573,False,Not tested
+95,FM3,Okshola cave,-5336.61755,1997.0,289,False,Not tested
+196,CC3,Crag cave,-8215.59974,1997.0,145,False,Not tested
+329,C996-1,Jiuxian cave,-7265.091256,1996.91898839,828,False,Not tested
+49,T7_2013,Cold Air cave,1635.4536871,1996.0,820,False,Not tested
+137,SG95,Soylegrotta cave,-3057.3593570000003,1991.0,169,False,Not tested
+405,CWC-1s,Cold Water cave,-5988.797729,1990.0,138,False,Not tested
+514,NC-A,Cueva del Tigre Perdido,-2342.788936,1989.43627399,288,False,Not tested
+33,Vil-stm1,Villars cave,-461.1775389999998,1988.52451354,336,False,Not tested
+178,MC01,Macal Chasm,-3233.6267470000003,1987.51013695,660,False,Not tested
+76,HY1,Huangye cave,709.7982119999999,1985.11918118,187,False,Not tested
+124,LC-1,Leviathan cave,-101681.2467,1983.71171255,1430,False,Not tested
+358,GG2,Gardener's Gut,-9800.21537,1983.6648728,142,False,Not tested
+111,DY-1,Dayu cave,1263.4437825,1982.80725735,305,False,Not tested
+161,POM2,Ascunsa cave,-6376.621021999999,1982.39669605,150,False,Not tested
+650,GAR-01_drill,La Garma cave,-11385.7322,1981.14975003,354,False,Not tested
+437,Uluu2,Uluu-Too cave,-2742.221136,1978.78007049,1807,False,Not tested
+898,Boto 3_2021,Chiflonkhakha cave,632.0757051636599,1977.951015664643,253,False,Not tested
+393,05FC-04,Forestry cave,1876.23502763,1975.78069948,545,False,Not tested
+523,GB09-03,Gempa bumi cave,-37981.12739,1971.37087213,755,False,Not tested
+97,TM0,Tamboril cave,-197.57007699999986,1970.48555164,472,False,Not tested
+110,CUR4,Curupira cave,1789.3532306,1969.35215446,253,False,Not tested
+784,HBSH-3,Hüttenbläserschachthöhle,-8421.285088483,1967.5748802109667,354,False,Not tested
+538,SQ1,Shenqi cave,-317.324846,1964.40439385,505,False,Not tested
+298,SB-43,Sanbao cave,-10935.64281,1960.94485786,488,False,Not tested
+289,JX-7,Juxtlahuaca cave,947.533779,1959.410329761,527,False,Not tested
+673,HW-1,Hollywood cave,-2192.3423380000004,1958.395585869,138,False,Not tested
+118,IFK1,Ifoulki cave,805.674927,1956.176739087,651,False,Not tested
+330,C996-2,Jiuxian cave,-16985.18557,1955.118594968,215,False,Not tested
+739,BA18-4,Bàsura cave,1166.5045901809199,1948.2400644206825,265,False,Not tested
+444,DM05-01,Arch cave,-10186.15815,1938.63245539,40,False,Not tested
+198,DP1_2016,Dante cave,1439.9853956,1938.5868925,264,False,Not tested
+367,LR06-B3_2013,Liang Luar,-8747.70612,1933.47073445,168,False,Not tested
+197,DP1_2013,Dante cave,-2668.6580029999996,1931.81688677,315,False,Not tested
+873,Wu37,Wulu cave,-1367.9051825032898,1917.601336469943,622,False,Not tested
+498,Boto 3,Chiflonkhakha cave,799.1595560000001,1911.52174669,232,False,Not tested
+227,LR06-B3_2016,Liang Luar,-35.03446000000008,1908.85417151,530,False,Not tested
+113,DV2,Diva cave,-815.4940179999999,1907.5145383,539,False,Not tested
+93,PAL3,Palestina cave,1090.8859822,1905.2090782,184,False,Not tested
+738,ABC-1,Anjohibe,-134.0767087630502,1902.1457981926958,295,False,Not tested

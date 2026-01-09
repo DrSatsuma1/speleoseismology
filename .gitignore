@@ -1,0 +1,61 @@
+# SISAL database (large files - download from NOAA if needed)
+paleoseismic_caves/data/SISAL3/*.zip
+paleoseismic_caves/data/SISAL3/sisalv3_database_mysql_csv/
+paleoseismic_caves/data/SISAL3/sisalv3_standardised_trace_elements_datafiles/
+
+# DEM tiles (large GeoTIFFs - download from TINITALY if needed)
+**/*.tif
+dem_tiles/w*/
+*.zip
+
+# GIS databases and shapefiles (large files - download from USGS)
+**/*.gdb/
+**/GDB/
+**/SHP/
+**/Symbology/
+**/*.shp
+**/*.dbf
+
+# Temporary/local files
+*.pdf
+*.aux.xml
+.claude/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Data files that can be regenerated
+paleoseismic_caves/data/rag_db/
+
+# Downloaded data files (large datasets - download from sources as needed)
+paleoseismic_caves/data/aquifer_monitoring/
+paleoseismic_caves/data/brazil/
+paleoseismic_caves/data/california/
+paleoseismic_caves/data/pallett_creek/
+paleoseismic_caves/data/papers/
+paleoseismic_caves/data/peru/
+paleoseismic_caves/data/scripps_segy/
+paleoseismic_caves/data/sofular/
+paleoseismic_caves/data/tree_rings/
+paleoseismic_caves/data/turkey/
+paleoseismic_caves/data/ingv_liguria_raw.txt
+paleoseismic_caves/data/ridgecrest_tec_2019.csv
+
+# ML data directories (large downloads - InSAR, bathymetry, etc.)
+paleoseismic_caves/ml/bathymetry_data/
+paleoseismic_caves/ml/insar_data/
+paleoseismic_caves/ml/ionex_data/
+paleoseismic_caves/ml/sentinel2_data/
+paleoseismic_caves/ml/outputs/
+
+# Marble Fork data (large dataset)
+Marble Fork/
+
+# Claude memory and hooks (local only)
+paleoseismic_caves/memory/
+paleoseismic_caves/hooks/
