@@ -19,7 +19,8 @@ dem_tiles/w*/
 # Temporary/local files
 *.pdf
 *.aux.xml
-.claude/
+.claude/*
+!.claude/skills/
 .DS_Store
 
 # Python
